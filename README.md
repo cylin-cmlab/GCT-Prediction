@@ -9,6 +9,8 @@ The experimental code will be public in ./Model
 ## DEMO Playground
 https://cylin-cmlab.github.io/GCT-flow-demo
 
+<img src="./Figure/playground.png" alt="" width=90%/>
+
 ## Overview
 
 ### GCT
