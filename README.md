@@ -1,7 +1,7 @@
 # Supplemental Material: Geographical Cellular Traffic (GCT) dataset 
 
 This is the original data repository of Geographical Cellular Traffic.
-This prototypical dataset cooperated with [Chunghwa Telecom Company](https://www.cht.com.tw/en/home/cht) and [Chunghwa Telecom laboratories](https://www.chttl.com.tw/en/index.html)
+This prototypical dataset cooperated with [Chunghwa Telecom laboratories](https://www.chttl.com.tw/en/index.html)
 
 The dataset materials are provided in the following.
 The experimental code will be public in ./Model
