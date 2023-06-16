@@ -67,10 +67,6 @@ There are three types GCT flows, which are based on **Type** in GCT table to cal
 1. V-GCT flow:
 The original CSV file for V-GCT flow is available on: [Google Drive](https://drive.google.com/file/d/1rEv9GOPMKAjk-WZuK7Zd7jLSWCKTxOHr/view?usp=share_link) 
 
-2022/08/28 20:00	55	15	46	14
-2022/08/28 20:05	77	12	41	15
-2022/08/28 20:10	60	20	20	6
-
 Here are the partital examples of V-GCT flow:
 |                     | Road Segment 1 | Road Segment 6 | Road Segment 11 | ... |
 |:-------------------:|:--------------:|:--------------:|:--------------:|:--------------:|
