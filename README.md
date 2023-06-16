@@ -17,7 +17,8 @@ https://cylin-cmlab.github.io/GCT-flow-demo
 GCT is cellular traffic with estimated GPS coordinates obtained from triangulation, indicating where the traffic was generated. 
 Each GCT is classified\footnote{The algorithm is the telecom company's confidential trade secret.} into three categories: vehicle, pedestrian, and stationary.
 
-Here are the partital examples of GCT record (*IMEI numbers were hashed to protect privacy):
+Here are the partial examples of GCT records (*IMEI numbers were hashed to protect privacy):
+
 |       IMEI     |    Latitude    |    Longitude   |      Time      |      Type      |
 |:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
 |       ...      |    ...         |    ...         |    ...         |    ...         |   
