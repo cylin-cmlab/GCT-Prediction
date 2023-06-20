@@ -62,6 +62,11 @@ The processed Graph Structure of Road Segment Network, i.e., `adj_mat_2022_hsin_
 https://drive.google.com/drive/folders/1mOuSkPpbGeq_Q-jVwKaq_qk-YU_mlwn4?usp=sharing
 ```
 
+Setting at `parameters.py` or `GMVM.ipynb` in:
+```
+parser.add_argument('--adj_data',type=str,default='xxxx/adj_mat_2022_hsin_21_locs.pkl',help='adj data path')
+```
+
 ## Model Training
 
 The code for each part of the framework architecture is provided above.
