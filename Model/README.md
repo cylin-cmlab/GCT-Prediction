@@ -45,11 +45,11 @@ Each type has training/testing/validation data structures, respectively.
 
 #### How to Create Graph Construction
 
-As the implementation is based on pre-calculated distances between road segments, we provided the CSV file with
-- road segment ID and their GPS: `coordinates.csv`
-- road section distances: `distances.txt`
-  
-are available at:
+As the implementation is based on pre-calculated distances between road segments, we provide the following files:
+- coordinates.csv: Contains road segment IDs and their GPS coordinates.
+- distances.txt: Contains road section distances.
+
+These files are available at:
 ```
 ../Data
 ```
