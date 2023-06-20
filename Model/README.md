@@ -48,7 +48,8 @@ Each type has training/testing/validation data structures, respectively.
 As the implementation is based on pre-calculated distances between road segments, we provided the CSV file with
 - road segment ID and their GPS: `coordinates.csv`
 - road section distances: `distances.txt`
-in: 
+  
+are available at:
 ```
 ../Data
 ```
