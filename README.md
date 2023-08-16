@@ -33,7 +33,7 @@ The road segments are defined as 20m x 20m areas, which is based on the average 
 All the GCTs listed in the above table are located within the predefined road segments, nearby various regional functionality.
 
 Here are the distribution examples of selected road segments:
-<img src="./Figure/road_segments.png" alt="" width=70%/>
+<img src="./Figure/road_segments_1.png" alt="" width=70%/>
 
 ### GCT Flow
 We define GCT flow as the total quantity of GCT within a fixed interval (e.g., 5 minutes) using public traffic flow datasets.
