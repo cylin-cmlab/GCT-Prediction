@@ -8,7 +8,7 @@ def main(runid):
     # else:
     #     static_feat = None
 
-    model = GMVM(args.model_type, args.gcn_true, args.buildA_true, args.gcn_depth, args.num_nodes,
+    model = MFGM(args.model_type, args.gcn_true, args.buildA_true, args.gcn_depth, args.num_nodes,
                    device, predefined_A=adj_mx, kernel_set=args.kernel_set, dropout=args.dropout, subgraph_size=args.subgraph_size, node_dim=args.node_dim, dilation_exponential=args.dilation_exponential, conv_channels=args.conv_channels, residual_channels=args.residual_channels,
                   skip_channels=args.skip_channels, end_channels= args.end_channels,
                   seq_length=args.seq_in_len, in_dim=args.in_dim, out_dim=args.seq_out_len,

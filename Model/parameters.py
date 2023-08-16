@@ -45,7 +45,7 @@ parser.add_argument('--propalpha',type=float,default=0.05,help='prop alpha')
 parser.add_argument('--tanhalpha',type=float,default=3,help='adj alpha')
 
 
-parser.add_argument('--model_type',type=str,default='GMVM',help='model type')
+parser.add_argument('--model_type',type=str,default='MFGM',help='model type')
 parser.add_argument('--skip_channels',type=int,default=64,help='skip channels')
 parser.add_argument('--end_channels',type=int,default=128,help='end channels')
 parser.add_argument('--layers',type=int,default=3,help='number of layers')
