@@ -1,10 +1,15 @@
 # Supplemental Material: Geographical Cellular Traffic (GCT) dataset 
 
 This is the original data repository of Geographical Cellular Traffic.
-This prototypical dataset cooperated with [Chunghwa Telecom laboratories](https://www.chttl.com.tw/en/index.html)
 
 The dataset materials are provided in the following.
-The experimental code will be public in ./Model
+
+
+## Acknowledge
+This work was supported in part by National Science and Technology Council, Taiwan, under Grant NSTC 111-2634- F-002-022 and by Qualcomm through a Taiwan University Research Collaboration Project.
+
+This prototypical dataset cooperated with [Chunghwa Telecom laboratories](https://www.chttl.com.tw/en/index.html)
+
 
 ## DEMO Playground
 https://cylin-cmlab.github.io/GCT-flow-demo
@@ -12,6 +17,9 @@ https://cylin-cmlab.github.io/GCT-flow-demo
 <img src="./Figure/playground.png" alt="" width=90%/>
 
 ## Overview
+
+
+The experimental code will be public in ./Model
 
 ### GCT
 GCT is cellular traffic with estimated GPS coordinates obtained from triangulation, indicating where the traffic was generated. 
